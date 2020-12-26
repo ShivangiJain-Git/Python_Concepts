@@ -1,0 +1,29 @@
+Univariate 
+==========
+1. distplot
+2. countplot (with and without hue)
+
+Bivariate
+==========
+1. jointplot  (scatterplot kidn of)
+2. Hex Bin Plot ( jointplot with kind= hex)
+3. KDE (joinplot with kind=kde)
+4. pairplot
+5. heatmap
+
+Plotting with categorical data
+==============================
+1. stripplot  (jitter = True)  [one categorocal and one numeric]
+2. swarmplt                    
+3. boxplot              [one categorical and one numeric]
+4. boxplot ( with hue)
+5. Bar plot ( with hue)
+6. pointplot (with and without hue)
+
+multi-panel categorical plot
+=============================
+	1. catplot
+
+regression line
+===============
+1. lmplot (with and without hue)
